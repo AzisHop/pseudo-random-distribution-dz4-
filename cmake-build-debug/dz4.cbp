@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="dz4"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\test\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dz4">
+				<Option output="/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/dz4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/./include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/Makefile&quot;  VERBOSE=1 dz4"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dz4/fast">
+				<Option output="/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/dz4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/./include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/Makefile&quot;  VERBOSE=1 dz4/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option output="/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/test/test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/test"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/./include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test/fast">
+				<Option output="/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/test/test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/test"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/./include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 test/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/include/TextHandler.h">
+			<Option target="dz4"/>
+		</Unit>
+		<Unit filename="/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/main.cpp">
+			<Option target="dz4"/>
+		</Unit>
+		<Unit filename="/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/src/MD5Hash.cpp">
+			<Option target="dz4"/>
+		</Unit>
+		<Unit filename="/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/src/TextHandler.cpp">
+			<Option target="dz4"/>
+		</Unit>
+		<Unit filename="/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/test/tests.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

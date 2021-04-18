@@ -1,0 +1,6 @@
+/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/CMakeFiles/dz4.dir
+/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir
+/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/test/CMakeFiles/edit_cache.dir
+/home/yaroslav/Techno_park/2_sem/Blockcheins/pseudo-random-distribution-dz4-/cmake-build-debug/test/CMakeFiles/test.dir
