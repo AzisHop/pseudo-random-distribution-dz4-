@@ -4,7 +4,6 @@
 
 #include <iostream>
 #include <fstream>
-#include "Hash.h"
 
 #ifndef DZ4_TEXTHANDLER_H
 #define DZ4_TEXTHANDLER_H

@@ -1,8 +1,6 @@
 #include <iostream>
 #include <iomanip>
 
-#include "cryptopp/sha.h"
-#include "MD5Hash.h"
 #include <istream>
 #include <ostream>
 #include "TextHandler.h"
@@ -45,7 +43,6 @@ void parse_cmd(arguments& arg, int argc, char* argv[]) {
 int main(int argc, char* argv[]) {
     arguments arg;
     parse_cmd(arg, argc, argv);
-    std:: cout << arg.filename << " " << arg.number_ticket << " " << arg.par_distrib << std::endl;
 
     TextHandler textHandler(arg.number_ticket);
     std::fstream file;
