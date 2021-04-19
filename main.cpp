@@ -1,12 +1,6 @@
-#include <iostream>
-#include <iomanip>
-
-#include <istream>
 #include <ostream>
 #include "TextHandler.h"
 #include <cstring>
-
-
 
 struct arguments {
     std::string filename;
